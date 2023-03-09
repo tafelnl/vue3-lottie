@@ -17,7 +17,7 @@ import {
   PropType,
   watchEffect,
 } from 'vue'
-import Lottie from 'lottie-web'
+import Lottie from 'lottie-web/build/player/lottie_light.min.js'
 import isEqual from 'fast-deep-equal/es6';
 import { klona as cloneDeep } from 'klona/json';
 
